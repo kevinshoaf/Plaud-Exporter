@@ -255,7 +255,6 @@ PlaudExporter/
 - **Browser opens but nothing happens after approving.** Make sure you returned to the app window; the callback completes there. If your default browser blocks `localhost`, try a different default browser.
 - **A note or polished transcript fails to download.** Its presigned link likely expired — just click Download again; the app re-fetches fresh links each run.
 - **SmartScreen blocks the EXE.** It is unsigned: **More info -> Run anyway**, or run the `.ps1` instead.
-- **Nothing logs to `D:\Logs`.** By design — this app logs under your user profile (see [above](#where-it-stores-things)).
 
 ---
 
