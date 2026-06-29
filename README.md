@@ -1,5 +1,5 @@
 # Plaud Exporter
-
+<img width="1006" height="653" alt="PlaudExporter" src="https://github.com/user-attachments/assets/82a9a6ed-63de-4503-b358-897fbde8cb30" />
 A Windows desktop app for **bulk-exporting your [Plaud](https://www.plaud.ai/) recordings** — transcripts, AI summaries, notes, and audio — to a folder of your choice.
 
 Sign in with your Plaud account, browse every recording with at-a-glance availability of each artifact type, tick the ones you want, and download them in parallel. Built in PowerShell + WinForms and compilable to a single standalone `.exe`.
@@ -53,6 +53,9 @@ Sign in with your Plaud account, browse every recording with at-a-glance availab
 No administrator rights are required. The app runs unelevated, which is necessary for the localhost OAuth callback.
 
 > Running the **`.ps1`** directly (instead of the compiled EXE) additionally needs **Windows PowerShell 5.1** (the built-in `powershell.exe`, not PowerShell 7), run from a normal console — not the ISE. You may need a permissive execution policy, e.g. `powershell -ExecutionPolicy Bypass -File .\PlaudExporter.ps1`.
+
+### Download Compiled EXE
+To download a copy of Plaud Exporter as an EXE file, click here: [Download EXE](https://github.com/kevinshoaf/Plaud-Exporter/raw/refs/heads/main/PlaudExporter.exe)
 
 ### To build the EXE yourself
 
