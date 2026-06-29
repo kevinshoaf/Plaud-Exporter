@@ -1,6 +1,6 @@
 # Plaud Exporter
 <img width="1006" height="653" alt="PlaudExporter" src="https://github.com/user-attachments/assets/82a9a6ed-63de-4503-b358-897fbde8cb30" />
-A Windows desktop app for **bulk-exporting your [Plaud](https://www.plaud.ai/) recordings** — transcripts, AI summaries, notes, and audio — to a folder of your choice.
+A Windows desktop app for **bulk-exporting your Plaud recordings** — transcripts, AI summaries, notes, and audio — to a folder of your choice.
 
 Sign in with your Plaud account, browse every recording with at-a-glance availability of each artifact type, tick the ones you want, and download them in parallel. Built in PowerShell + WinForms and compilable to a single standalone `.exe`.
 
